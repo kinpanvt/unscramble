@@ -1,0 +1,3 @@
+Bytes in file:	629
+Name of file:	fuzzy-data-10.bin
+Clear|Fuzzy:	fuzzy

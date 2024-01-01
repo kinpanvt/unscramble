@@ -1,0 +1,3 @@
+347
+fuzzy-data-11.bin
+fuzzy
