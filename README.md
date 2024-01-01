@@ -1,2 +1,2 @@
 # unscramble
-Unscramble jumbled regular and binary data
+Unscramble scrambled regular data and binary data
