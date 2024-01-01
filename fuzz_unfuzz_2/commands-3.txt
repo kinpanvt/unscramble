@@ -1,0 +1,17 @@
+# Please load the following bill file
+load bill-3.txt
+# summarize November
+average cost
+# summarize April
+# average duration
+# average duration
+summarize December
+# average duration
+# average cost
+# summarize September
+summarize May
+summarize July
+summarize March
+average duration
+summarize
+display

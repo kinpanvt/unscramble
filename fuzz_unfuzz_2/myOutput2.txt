@@ -1,0 +1,60 @@
+Command: load bill-2.txt
+	Loaded 25 records from bill-2.txt
+Command: summarize May
+	         May:	Total 2	Average Duration: 38.0000	Average Cost: 0.73
+Command: average duration
+	Average Duration: 36.8800
+Command: average duration
+	Average Duration: 36.8800
+Command: summarize May
+	         May:	Total 2	Average Duration: 38.0000	Average Cost: 0.73
+Command: average duration
+	Average Duration: 36.8800
+Command: average cost
+	Average Cost: 0.95
+Command: summarize 
+	     January:	Total 2	Average Duration: 35.0000	Average Cost: 1.09
+	    February:	Total 2	Average Duration: 39.0000	Average Cost: 1.24
+	       March:	Total 2	Average Duration: 21.0000	Average Cost: 0.75
+	       April:	Total 5	Average Duration: 45.2000	Average Cost: 0.87
+	         May:	Total 2	Average Duration: 38.0000	Average Cost: 0.73
+	        June:	Total 3	Average Duration: 38.0000	Average Cost: 1.04
+	        July:	Total 4	Average Duration: 38.0000	Average Cost: 0.74
+	      August:	Total 0	Average Duration: 0		Average Cost: 0
+	   September:	Total 0	Average Duration: 0		Average Cost: 0
+	     October:	Total 2	Average Duration: 33.5000	Average Cost: 1.65
+	    November:	Total 2	Average Duration: 33.5000	Average Cost: 0.34
+	    December:	Total 1	Average Duration: 30.0000	Average Cost: 1.71
+    Year 2020:	Total 25	Average Duration: 36.8800	Average Cost: 0.950000
+Command: display 
+Robert Smith
+123 Main St
+Marion, TX 49780
+
+Date		Time	Number		Drtn	Cost
+-----------------------------------------------------
+20200102    2252    3122303555  48  1.36
+20200122    1247    3122244779  22  0.83
+20200208    1411    4042619222  65  0.76
+20200228    0212    2122553671  13  1.72
+20200326    0046    4152535988  23  0.77
+20200326    1452    4152317640  19  0.72
+20200405    1519    4152317426  33  1.95
+20200410    0838    4042554691  40  0.52
+20200426    0157    4152288726  56  0.29
+20200429    2032    3122392139  63  1.00
+20200430    1235    2122548815  34  0.59
+20200509    1606    3102409997  41  0.11
+20200518    1246    2122461761  35  1.34
+20200608    0305    2122312205  21  0.34
+20200609    1317    3102296548  45  1.30
+20200626    2010    3122292063  48  1.49
+20200711    1651    4152131242  21  0.55
+20200713    1333    2122488398  26  1.56
+20200720    2241    3122519923  38  0.55
+20200729    1245    4152271444  67  0.30
+20201012    0532    4042338042  49  1.79
+20201021    2333    3122391905  18  1.51
+20201108    0807    3102481139  44  0.58
+20201129    1630    4152211971  23  0.11
+20201212    2101    4152554204  30  1.71

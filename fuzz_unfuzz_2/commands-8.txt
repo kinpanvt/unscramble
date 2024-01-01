@@ -1,0 +1,15 @@
+# Please load the following bill file
+load bill-8.txt
+average duration
+average cost
+average cost
+average duration
+average cost
+# average duration
+summarize April
+average cost
+summarize February
+summarize January
+summarize October
+summarize
+display

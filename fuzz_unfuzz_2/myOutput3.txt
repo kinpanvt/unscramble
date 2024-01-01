@@ -1,0 +1,85 @@
+Command: load bill-3.txt
+	Loaded 50 records from bill-3.txt
+Command: average cost
+	Average Cost: 1.02
+Command: summarize December
+	    December:	Total 2	Average Duration: 19.5000	Average Cost: 0.54
+Command: summarize May
+	         May:	Total 4	Average Duration: 32.7500	Average Cost: 1.27
+Command: summarize July
+	        July:	Total 6	Average Duration: 43.3333	Average Cost: 0.61
+Command: summarize March
+	       March:	Total 3	Average Duration: 36.3333	Average Cost: 0.78
+Command: average duration
+	Average Duration: 36.6400
+Command: summarize 
+	     January:	Total 2	Average Duration: 19.5000	Average Cost: 1.03
+	    February:	Total 2	Average Duration: 43.5000	Average Cost: 0.83
+	       March:	Total 3	Average Duration: 36.3333	Average Cost: 0.78
+	       April:	Total 4	Average Duration: 30.5000	Average Cost: 1.21
+	         May:	Total 4	Average Duration: 32.7500	Average Cost: 1.27
+	        June:	Total 5	Average Duration: 38.6000	Average Cost: 1.22
+	        July:	Total 6	Average Duration: 43.3333	Average Cost: 0.61
+	      August:	Total 6	Average Duration: 40.3333	Average Cost: 1.39
+	   September:	Total 5	Average Duration: 31.8000	Average Cost: 1.05
+	     October:	Total 7	Average Duration: 40.7143	Average Cost: 0.99
+	    November:	Total 4	Average Duration: 41.5000	Average Cost: 0.88
+	    December:	Total 2	Average Duration: 19.5000	Average Cost: 0.54
+    Year 2020:	Total 50	Average Duration: 36.6400	Average Cost: 1.017000
+Command: display 
+Michael Davis
+909 Forest Dr
+Newport, ME 78369
+
+Date		Time	Number		Drtn	Cost
+-----------------------------------------------------
+20200103    0714    4042143999  14  0.10
+20200120    1123    4042225116  25  1.96
+20200222    2057    3102567112  46  0.66
+20200224    1547    4152316954  41  1.00
+20200303    0004    3102475996  69  0.73
+20200314    2343    2122142657  11  0.06
+20200325    0359    4042142076  29  1.54
+20200401    0706    3122215383  16  1.73
+20200426    1413    4152292480  19  1.59
+20200426    1846    3102252375  33  0.04
+20200426    2112    4042186295  54  1.46
+20200510    0634    3102201183  65  1.83
+20200516    1946    2122524427  22  0.69
+20200520    1217    3122303978  21  1.86
+20200531    0923    2122397755  23  0.68
+20200602    2337    3122195568  24  1.97
+20200612    1325    3122355167  45  1.65
+20200621    2219    2122228215  67  0.67
+20200625    0404    4042292422  45  0.13
+20200630    2237    3122381757  12  1.66
+20200702    1329    2122359716  69  1.10
+20200705    1812    3102418371  30  0.57
+20200706    2223    3102251975  67  0.68
+20200724    1452    4152307721  29  0.30
+20200725    0219    4152153037  24  0.55
+20200727    0246    3122479585  41  0.48
+20200802    1744    4152503075  66  0.98
+20200806    0623    4152516442  43  1.69
+20200808    1629    3102214825  42  1.57
+20200811    2222    3122137106  26  1.79
+20200826    2001    2122253005  18  0.51
+20200828    1300    3122168233  47  1.82
+20200907    0247    3122475126  38  0.33
+20200909    0836    3122426451  15  1.06
+20200911    2340    2122587839  18  1.30
+20200921    0324    3102359542  53  1.92
+20200922    1836    4042589803  35  0.62
+20201007    0059    3122256256  24  1.87
+20201015    1417    3122413966  38  1.76
+20201016    1027    4152374792  16  0.58
+20201026    0254    4042291041  34  0.48
+20201027    2120    2122141962  59  0.22
+20201028    1722    2122386123  50  1.37
+20201029    1944    4152494399  64  0.68
+20201104    0520    3122361600  35  0.64
+20201105    1524    3122617865  56  0.65
+20201115    1606    2122263198  15  1.81
+20201118    0813    4042365316  60  0.43
+20201210    2001    2122278122  22  0.51
+20201220    1221    2122327793  17  0.57

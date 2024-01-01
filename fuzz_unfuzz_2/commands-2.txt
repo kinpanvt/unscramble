@@ -1,0 +1,11 @@
+# Please load the following bill file
+load bill-2.txt
+summarize May
+average duration
+average duration
+summarize May
+average duration
+# summarize October
+average cost
+summarize
+display
